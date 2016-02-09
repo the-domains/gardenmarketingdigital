@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T02:24:58.579Z'
-dateModified: '2016-02-09T02:24:25.269Z'
+datePublished: '2016-02-09T02:25:15.312Z'
+dateModified: '2016-02-09T02:25:03.955Z'
 author: []
 title: Agência de Marketing Digital com foco em resultados
 sourcePath: _posts/2016-02-09-agencia-de-marketing-digital-com-foco-em-resultados.md

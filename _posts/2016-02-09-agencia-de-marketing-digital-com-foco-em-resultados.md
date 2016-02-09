@@ -6,10 +6,10 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T02:40:36.505Z'
-dateModified: '2016-02-09T02:40:33.490Z'
+datePublished: '2016-02-09T03:02:45.757Z'
+dateModified: '2016-02-09T03:02:39.536Z'
 author: []
-title: Agência de Marketing Digital com foco em resultados
+title: A agência
 sourcePath: _posts/2016-02-09-agencia-de-marketing-digital-com-foco-em-resultados.md
 published: true
 authors: []
@@ -23,5 +23,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Agência de Marketing Digital com foco em resultados
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2434556-11a8-4fb5-9a83-49b5663258f4.png)
+# A agência

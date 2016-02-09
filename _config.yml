@@ -1,6 +1,6 @@
 name: gardenmarketingdigital
 favicon: null
-layout_spectrum: 0.1766743683256209
+layout_spectrum: 0
 typography_spectrum: 0.24415481532923877
 title: Garden Marketing Digital
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.23090568371117115
+    - '#33ba7c'
+    - '#4fc48f'
+    - '#49be88'
+    - '#33b278'
+    - '#40b580'
+  brandStrength: 0.375
   lightness: 0.23061657417565584
   saturation: 0.9292728833388537
   rhythmicContrast: 0.4369198936037719

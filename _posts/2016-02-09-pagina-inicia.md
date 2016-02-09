@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://app.thegrid.io/posts/e16895b9-0379-41d0-9335-71fbb1127d56/edit'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T02:52:07.585Z'
-dateModified: '2016-02-09T02:52:00.766Z'
+datePublished: '2016-02-09T02:52:19.861Z'
+dateModified: '2016-02-09T02:52:09.531Z'
 author: []
 title: Serviços
 sourcePath: _posts/2016-02-09-pagina-inicia.md
@@ -19,6 +18,7 @@ publisher:
   domain: app.thegrid.io
   url: null
   favicon: null
+url: servicos/index.html
 _context: 'http://schema.org'
 _type: Article
 

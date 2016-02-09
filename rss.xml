@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Garden Marketing Digital]]></title>
-        <description><![CDATA[Garden Marketing Digital]]></description>
+        <title><![CDATA[Pagina Inicial]]></title>
+        <description><![CDATA[Pagina Inicial]]></description>
         <link>https://thegrid.ai/gardenmarketingdigital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 02:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 02:25:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gardenmarketingdigital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Serviços]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<h1>Agência de Marketing Digital com foco em resultados</h1>]]></description>
             <link>https://thegrid.ai/gardenmarketingdigital/agencia-de-marketing-digital-com-foco-em-resultados/index.html</link>
             <guid isPermaLink="false">c0f23c75-912d-48c3-8f36-02a3d261e320</guid>
-            <pubDate>Tue, 09 Feb 2016 02:24:16 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 02:24:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

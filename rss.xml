@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[gardenmarketingdigital]]></title>
-        <description><![CDATA[gardenmarketingdigital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Garden Marketing Digital]]></title>
+        <description><![CDATA[Garden Marketing Digital]]></description>
+        <link>https://thegrid.ai/gardenmarketingdigital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 01:43:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 02:09:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gardenmarketingdigital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Como o vídeo ajudou o restaurante Compotta comida casual a se posicionar?]]></title>
-            <description><![CDATA[<article><h1>Como o vídeo ajudou o restaurante Compotta comida casual a se posicionar?</h1><p>Case de Sucesso Como o vídeo ajudou o restaura Compotta Comida Casual a se posicionar?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e748bd0a6b2b3ea35c0311ce4f68c4f68a0418c.jpg"></article>]]></description>
-            <link>undefinedcomo-o-video-ajudou-o-restaurante-compotta-comida-casual-a-s/index.html</link>
+            <description><![CDATA[<article><h1>Como o vídeo ajudou o restaurante Compotta comida casual a se posicionar?</h1><p>Case de Sucesso Como o vídeo ajudou o restaura Compotta Comida Casual a se posicionar?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9257c01ad85129203ec6482ec5afbcd85e21d34a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gardenmarketingdigital/como-o-video-ajudou-o-restaurante-compotta-comida-casual-a-s/index.html</link>
             <guid isPermaLink="false">e16895b9-0379-41d0-9335-71fbb1127d56</guid>
             <pubDate>Tue, 09 Feb 2016 01:41:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agência de Marketing Digital com foco em resultados]]></title>
+            <description><![CDATA[<article><h1>Agência de Marketing Digital com foco em resultados</h1><p>posicionar</p></article>]]></description>
+            <link>https://app.thegrid.io/posts/e16895b9-0379-41d0-9335-71fbb1127d56/edit</link>
+            <guid isPermaLink="false">c0f23c75-912d-48c3-8f36-02a3d261e320</guid>
+            <pubDate>Tue, 09 Feb 2016 02:09:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

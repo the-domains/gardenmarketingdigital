@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Esse case de sucesso aconteceu com um cliente da Garden Marketing Digital que aceitou a ideia de desenvolver um vídeo para convidar algumas pessoas chave para participar da festa de inauguração.
-datePublished: '2016-02-09T02:39:00.109Z'
-dateModified: '2016-02-09T02:38:32.492Z'
+datePublished: '2016-02-09T02:52:27.212Z'
+dateModified: '2016-02-09T02:46:42.359Z'
 title: BlogPost
 author: []
 sourcePath: _posts/2016-02-09-como-o-video-ajudou-o-restaurante-compotta-comida-casual-a-s.md

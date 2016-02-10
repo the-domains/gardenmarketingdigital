@@ -1,6 +1,6 @@
 name: Garden Marketing Digital
 favicon: null
-layout_spectrum: 0.99903
+layout_spectrum: 0.74855
 typography_spectrum: 0.49037
 title: Agência de Marketing Digital
 cta:
@@ -22,8 +22,8 @@ color:
     - '#a1bdd2'
     - '#fefefe'
     - '#36b881'
-  brandStrength: 0.0625
+  brandStrength: 0.5
   lightness: 0.25
-  saturation: 0.1875
+  saturation: 0.25
   rhythmicContrast: 0.25
 purpose: []

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Garden Marketing Digital]]></title>
-        <description><![CDATA[Garden Marketing Digital]]></description>
+        <title><![CDATA[Agência de Marketing Digital]]></title>
+        <description><![CDATA[Agência de Marketing Digital]]></description>
         <link>https://thegrid.ai/gardenmarketingdigital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 03:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 02:06:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gardenmarketingdigital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quem somos]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[A agência]]></title>
-            <description><![CDATA[<h1>A agência</h1>]]></description>
+            <description><![CDATA[<article><h1>A agência</h1><p>Somos uma agência de Marketing Digital com foco em resultados. Buscamos entregar uma proposta de valor para os nossos clientes e isso é o que mais importa pra nós.</p></article>]]></description>
             <link>https://thegrid.ai/gardenmarketingdigital/agencia-de-marketing-digital-com-foco-em-resultados/index.html</link>
             <guid isPermaLink="false">c0f23c75-912d-48c3-8f36-02a3d261e320</guid>
-            <pubDate>Tue, 09 Feb 2016 03:02:45 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 02:06:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

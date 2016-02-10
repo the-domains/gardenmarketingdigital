@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: Esse case de sucesso aconteceu com um cliente da Garden Marketing Digital que aceitou a ideia de desenvolver um vídeo para convidar algumas pessoas chave para participar da festa de inauguração.
-datePublished: '2016-02-09T02:52:27.212Z'
-dateModified: '2016-02-09T02:46:42.359Z'
+datePublished: '2016-02-10T02:16:58.017Z'
+dateModified: '2016-02-10T02:15:22.654Z'
 title: BlogPost
 author: []
 sourcePath: _posts/2016-02-09-como-o-video-ajudou-o-restaurante-compotta-comida-casual-a-s.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: como-o-video-ajudou-o-restaurante-compotta-comida-casual-a-s/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ![garden marketing digital](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9257c01ad85129203ec6482ec5afbcd85e21d34a.jpg)

@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T03:02:45.757Z'
-dateModified: '2016-02-09T03:02:39.536Z'
+datePublished: '2016-02-10T02:06:26.156Z'
+dateModified: '2016-02-10T02:02:20.404Z'
 author: []
 title: A agência
 sourcePath: _posts/2016-02-09-agencia-de-marketing-digital-com-foco-em-resultados.md
@@ -24,3 +24,5 @@ _type: Article
 
 ---
 # A agência
+
+Somos uma agência de Marketing Digital com foco em resultados. Buscamos entregar uma proposta de valor para os nossos clientes e isso é o que mais importa pra nós.

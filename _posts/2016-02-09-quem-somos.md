@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T02:53:29.220Z'
-dateModified: '2016-02-09T02:53:23.703Z'
+datePublished: '2016-02-10T02:20:25.210Z'
+dateModified: '2016-02-10T02:20:21.891Z'
 title: Quem somos
 author: []
 sourcePath: _posts/2016-02-09-quem-somos.md
@@ -22,6 +22,9 @@ url: quem-somos/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7e47ae-f335-4ee8-831f-9e415e983a72.png)
-
 # Quem somos
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8d85884-d742-45fe-bc35-f8c6a6f323dd.png)
+
+Salmo Gardino
+
+Sócio-Proprietário da Agência Garden Marketing Digital e especialista em Inbound Marketing.

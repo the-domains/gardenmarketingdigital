@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T15:32:13.796Z'
-dateModified: '2016-02-22T15:06:33.104Z'
+datePublished: '2016-02-22T15:43:07.151Z'
+dateModified: '2016-02-22T15:42:35.915Z'
 title: Quem somos
 author: []
 sourcePath: _posts/2016-02-09-quem-somos.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Quem somos
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/994fa399-20f6-4fe9-9d3b-290a02870c24.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c66e06b75dab73a9beca2f641e780aa29014fef.png)
 
 Salmo Gardino
 

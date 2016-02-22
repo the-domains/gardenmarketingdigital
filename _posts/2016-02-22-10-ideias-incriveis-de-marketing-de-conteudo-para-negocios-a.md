@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: A internet tornou-se um dos melhores e mais democráticos meios de divulgação corporativa.
-datePublished: '2016-02-22T15:42:25.017Z'
-dateModified: '2016-02-22T15:42:19.047Z'
+datePublished: '2016-02-22T17:24:28.192Z'
+dateModified: '2016-02-22T17:24:27.038Z'
 title: 10 Ideias Incríveis de Marketing de Conteúdo para negócios alimentícios
 author: []
 sourcePath: _posts/2016-02-22-10-ideias-incriveis-de-marketing-de-conteudo-para-negocios-a.md
@@ -85,3 +85,5 @@ como são produzidas e como começaram. Então mostre os bastidores da sua empre
 Lembra dos comerciais dos biscoitos Bauducco? Basta um pouquinho de lágrimas nos olhos e todo mundo passa a ver seu panetone com outros olhos na prateleira.
 
 **E então, pronto para investir no marketing de conteúdo para pequenas empresas e deixar seus clientes com água na boca? Se quiser saber mais a respeito, compartilhe conosco sua dúvida aqui nos comentários e nós responderemos com outro post!**
+
+****

@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: A internet tornou-se um dos melhores e mais democráticos meios de divulgação corporativa.
-datePublished: '2016-02-22T15:42:04.810Z'
-dateModified: '2016-02-22T15:41:59.014Z'
+datePublished: '2016-02-22T15:42:25.017Z'
+dateModified: '2016-02-22T15:42:19.047Z'
 title: 10 Ideias Incríveis de Marketing de Conteúdo para negócios alimentícios
 author: []
 sourcePath: _posts/2016-02-22-10-ideias-incriveis-de-marketing-de-conteudo-para-negocios-a.md

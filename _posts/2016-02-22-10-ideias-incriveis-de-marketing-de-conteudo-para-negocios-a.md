@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: A internet tornou-se um dos melhores e mais democráticos meios de divulgação corporativa.
-datePublished: '2016-02-25T20:30:28.720Z'
-dateModified: '2016-02-25T20:28:49.616Z'
+datePublished: '2016-02-26T17:30:41.790Z'
+dateModified: '2016-02-26T17:24:34.874Z'
 title: 10 Ideias Incríveis de Marketing de Conteúdo para negócios alimentícios
 author: []
 sourcePath: _posts/2016-02-22-10-ideias-incriveis-de-marketing-de-conteudo-para-negocios-a.md
@@ -22,6 +22,7 @@ url: 10-ideias-incriveis-de-marketing-de-conteudo-para-negocios-a/index.html
 _type: Article
 
 ---
+# 10 Ideias Incríveis de Marketing de Conteúdo para negócios alimentícios
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5125ad6d-4fe2-4811-8ada-72cef0cfd59c.png)
 
 A internet tornou-se um dos melhores e mais democráticos meios de divulgação corporativa, disso ninguém ousa duvidar, mas há que se reconhecer que tornou-se, também, uma verdadeira faca de dois gumes. Se por um lado abre um espaço ilimitado para todos os tipos de negócios, por outro aumentou de tal forma a concorrência que é muito difícil  

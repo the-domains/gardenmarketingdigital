@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: A internet tornou-se um dos melhores e mais democráticos meios de divulgação corporativa.
-datePublished: '2016-02-22T17:24:28.192Z'
-dateModified: '2016-02-22T17:24:27.038Z'
+datePublished: '2016-02-25T20:30:28.720Z'
+dateModified: '2016-02-25T20:28:49.616Z'
 title: 10 Ideias Incríveis de Marketing de Conteúdo para negócios alimentícios
 author: []
 sourcePath: _posts/2016-02-22-10-ideias-incriveis-de-marketing-de-conteudo-para-negocios-a.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: 10-ideias-incriveis-de-marketing-de-conteudo-para-negocios-a/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5125ad6d-4fe2-4811-8ada-72cef0cfd59c.png)
@@ -86,4 +86,8 @@ Lembra dos comerciais dos biscoitos Bauducco? Basta um pouquinho de lágrimas no
 
 **E então, pronto para investir no marketing de conteúdo para pequenas empresas e deixar seus clientes com água na boca? Se quiser saber mais a respeito, compartilhe conosco sua dúvida aqui nos comentários e nós responderemos com outro post!**
 
+Fonte**: **[_Garden Marketing Digital_][0]
+
 ****
+
+[0]: http://www.gardendigital.com.br/#!10-Ideias-Incríveis-de-Marketing-de-Conteúdo-para-negócios-alimentícios/ch09u/56ccbe450cf2836ff5d6524d

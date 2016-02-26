@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Esse case de sucesso aconteceu com um cliente da Garden Marketing Digital que aceitou a ideia de desenvolver um vídeo para convidar algumas pessoas chave para participar da festa de inauguração.
-datePublished: '2016-02-26T17:28:32.897Z'
-dateModified: '2016-02-26T17:28:23.989Z'
+datePublished: '2016-02-26T17:30:51.971Z'
+dateModified: '2016-02-26T17:28:56.024Z'
 title: 'Case de Sucesso: Como o vídeo ajudou o restaura Compotta Comida Casual a se posicionar?'
 author: []
 sourcePath: _posts/2016-02-09-como-o-video-ajudou-o-restaurante-compotta-comida-casual-a-s.md

@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: Esse case de sucesso aconteceu com um cliente da Garden Marketing Digital que aceitou a ideia de desenvolver um vídeo para convidar algumas pessoas chave para participar da festa de inauguração.
-datePublished: '2016-02-22T15:36:29.435Z'
-dateModified: '2016-02-22T15:36:11.841Z'
-title: BlogPost
+datePublished: '2016-02-26T17:28:32.897Z'
+dateModified: '2016-02-26T17:28:23.989Z'
+title: 'Case de Sucesso: Como o vídeo ajudou o restaura Compotta Comida Casual a se posicionar?'
 author: []
 sourcePath: _posts/2016-02-09-como-o-video-ajudou-o-restaurante-compotta-comida-casual-a-s.md
 published: true
@@ -22,6 +22,7 @@ url: como-o-video-ajudou-o-restaurante-compotta-comida-casual-a-s/index.html
 _type: Article
 
 ---
+# Case de Sucesso: Como o vídeo ajudou o restaura Compotta Comida Casual a se posicionar?
 ![garden marketing digital](https://s3-us-west-2.amazonaws.com/the-grid-img/p/691c0653ad027467d7523d3f014b2382edeea990.jpg)
 
 **_Case de Sucesso Como o vídeo ajudou o restaura Compotta Comida Casual a se posicionar?_**
@@ -72,13 +73,16 @@ Com um posicionamento certo e moderado você ativa um dos gatilhos mentais que �
 
 Não perca tempo, o que você está esperando para desenvolver seu video e mostrar o que tem de novidade para os seus clientes.
 
+_Fonte: [Garden Marketing Digital][3]_
+
 Palavras-chave: vídeo, facebook, Youtube
 
-[][3][][4][][5]
+[][4][][5][][6]
 
 [0]: http://www.compotta.com.br/
 [1]: null
 [2]: https://youtu.be/pddlSklMbbA
-[3]: http://www.gardendigital.com.br/#!blog/hgmc1/tag/vídeo
-[4]: http://www.gardendigital.com.br/#!blog/hgmc1/tag/facebook
-[5]: http://www.gardendigital.com.br/#!blog/hgmc1/tag/Youtube
+[3]: http://www.gardendigital.com.br/#!Case-de-Sucesso-Como-o-vídeo-ajudou-o-restaurante-Compotta-comida-casual-a-se-posicionar/ch09u/568dca570cf202954c2ac106
+[4]: http://www.gardendigital.com.br/#!blog/hgmc1/tag/vídeo
+[5]: http://www.gardendigital.com.br/#!blog/hgmc1/tag/facebook
+[6]: http://www.gardendigital.com.br/#!blog/hgmc1/tag/Youtube

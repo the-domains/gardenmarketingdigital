@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-22T15:43:37.775Z'
-dateModified: '2016-02-22T15:43:15.342Z'
+description: Sócio-Proprietário da Agência Garden Marketing Digital e especialista em Inbound Marketing.
+datePublished: '2016-03-31T02:39:33.866Z'
+dateModified: '2016-03-31T02:36:21.760Z'
 title: Quem somos
 author: []
 sourcePath: _posts/2016-02-09-quem-somos.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: quem-somos/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Quem somos

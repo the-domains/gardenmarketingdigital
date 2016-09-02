@@ -1,20 +1,4 @@
-name: Garden Marketing Digital
-favicon: null
-layout_spectrum: 0.74709
 typography_spectrum: 0.85763
-title: Garden Marketing Digital
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74404799-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3ca77b'
@@ -26,4 +10,20 @@ color:
   lightness: 0.3125
   saturation: 0.25
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74709
+analytics:
+  google: UA-74404799-1
+  facebook: null
+  twitter: null
+name: Garden Marketing Digital
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Garden Marketing Digital
 purpose: []

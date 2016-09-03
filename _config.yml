@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Sobre a Garden
+    url: 'http://www.gardendigital.com.br'
+    type: external
 favicon: null
 title: Garden Marketing Digital
 purpose: []

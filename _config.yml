@@ -12,14 +12,20 @@ color:
   rhythmicContrast: 0.5
 opengraph:
   image: null
-  type: null
+  type: 'https://www.facebook.com/gardendigital/'
   appId: null
 layout_spectrum: 0.74709
 analytics:
   google: UA-74404799-1
   facebook: null
   twitter: null
-name: Garden Marketing Digital
+author:
+  name: Garden Marketing Digital
+  email: salmo@gardendigital.com.br
+  url: www.gardendigital.com.br
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af0fb9cc-6b92-42ae-b9b4-6695d8b910cc.png
+name: Agência de Inbound Marketing
 cta:
   domain: null
   bucket: null

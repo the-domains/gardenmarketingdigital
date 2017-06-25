@@ -1,20 +1,20 @@
-typography_spectrum: 0.85763
+typography_spectrum: 0.2629433732945472
 color:
   brandColors:
-    - '#3ca77b'
-    - '#80cfaf'
-    - '#ffffff'
-    - '#343f3d'
-    - '#00ffff'
-  brandStrength: 0.5
-  lightness: 0.3125
-  saturation: 0.25
-  rhythmicContrast: 0.5
+    - '#F4F4F2'
+    - '#3CA77B'
+    - '#80C4A7'
+    - '#BDDDCE'
+    - '#626A69'
+  brandStrength: 0.9108269046992064
+  lightness: 0.019510004902258515
+  saturation: 0.8487992258742452
+  rhythmicContrast: 0.6061360139865428
 opengraph:
   image: null
   type: 'https://www.facebook.com/gardendigital/'
   appId: null
-layout_spectrum: 0.74709
+layout_spectrum: 0.4088331644888967
 analytics:
   google: UA-74404799-1
   facebook: null
@@ -24,16 +24,53 @@ author:
   email: salmo@gardendigital.com.br
   url: www.gardendigital.com.br
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/af0fb9cc-6b92-42ae-b9b4-6695d8b910cc.png
-name: Agência de Inbound Marketing
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9afcec4-6f45-4d3d-b6e7-39bee919c532.png
+name: Marketing Digital
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: Sobre a Garden
-    url: 'http://www.gardendigital.com.br'
-    type: external
-favicon: null
-title: Garden Marketing Digital
-purpose: []
+  - name: O negócio
+    id: c0f23c75-912d-48c3-8f36-02a3d261e320
+    type: content
+  - name: Quem somos
+    id: f95dfde5-7c0b-4cb5-abe3-c4de6a2a1793
+    type: content
+  - name: Diagnóstico de Mkt Digital
+    id: ee642526-c816-450d-a347-f7f4980c3fa6
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56d0ec0-2ad8-4f68-841f-0281a629569b.png
+title: Garden Digital
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ecd4e8f-7f31-4903-aca5-1d83e75e75f2.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ecd4e8f-7f31-4903-aca5-1d83e75e75f2.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Marketing Digital
+purpose:
+  - type: contact
+    url: 'mailto:E-mail'
+    label: Entre em Contato
+github: true

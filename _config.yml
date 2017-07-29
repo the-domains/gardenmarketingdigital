@@ -42,7 +42,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56d0ec0-2ad8-4f68-841f-0281a629569b.png
-title: Garden Digital
+title: Garden
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -85,7 +85,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
